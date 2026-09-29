@@ -1,0 +1,4 @@
+PyQt6>=6.5
+pretty_midi>=0.2.10   # для MIDI
+numpy                 # для аудио
+librosa>=0.10         # для mp3/wav/ogg/flac (для mp3 нужен ещё ffmpeg)
